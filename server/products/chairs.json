@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Modern Comfort Lounge Chair",
+    "slug": "modern-comfort-lounge-chair",
+    "category": "chairs",
+    "description": "A premium ergonomic lounge chair built for comfort and durability.",
+    "basePrice": 7499,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
+      "https://images.unsplash.com/photo-1582582494700-8a1c2fca4d79"
+    ],
+    "options": {
+      "colors": ["Black", "Beige", "Grey"],
+      "materials": ["Leather", "Cotton"],
+      "addOns": [
+        { "key": "Extra Cushion", "price": 499 },
+        { "key": "Premium Fabric Upgrade", "price": 899 }
+      ]
+    }
+  },
+
+  {
+    "title": "Scandinavian Wooden Chair",
+    "slug": "scandinavian-wooden-chair",
+    "category": "chairs",
+    "description": "Minimalistic Scandinavian chair with handcrafted wooden frame.",
+    "basePrice": 5299,
+    "images": [
+      "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "https://images.unsplash.com/photo-1493666438817-866a91353ca9"
+    ],
+    "options": {
+      "colors": ["Natural Wood", "Walnut Brown"],
+      "materials": ["Solid Wood"],
+      "addOns": [
+        { "key": "Seat Cushion", "price": 299 },
+        { "key": "Wood Polish Upgrade", "price": 449 }
+      ]
+    }
+  },
+
+  {
+    "title": "ErgoFlex Office Chair",
+    "slug": "ergoflex-office-chair",
+    "category": "chairs",
+    "description": "A perfectly engineered ergonomic office chair for long hours of productivity.",
+    "basePrice": 8999,
+    "images": [
+      "https://images.unsplash.com/photo-1582582494700-8a1c2fca4d79",
+      "https://images.unsplash.com/photo-1588854337221-4e27dfc077ba"
+    ],
+    "options": {
+      "colors": ["Black", "Blue"],
+      "materials": ["Mesh", "Fabric"],
+      "addOns": [
+        { "key": "Adjustable Headrest", "price": 799 },
+        { "key": "Gel Seat Upgrade", "price": 999 }
+      ]
+    }
+  },
+
+  {
+    "title": "Vintage Retro Chair",
+    "slug": "vintage-retro-chair",
+    "category": "chairs",
+    "description": "A stylish retro-themed chair perfect for decor lovers.",
+    "basePrice": 4699,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4"
+    ],
+    "options": {
+      "colors": ["Brown", "Olive Green"],
+      "materials": ["Faux Leather"],
+      "addOns": [{ "key": "Armrest Padding", "price": 199 }]
+    }
+  },
+
+  {
+    "title": "Minimalist Plastic Shell Chair",
+    "slug": "minimalist-plastic-shell-chair",
+    "category": "chairs",
+    "description": "A lightweight and durable plastic chair with modern aesthetics.",
+    "basePrice": 3299,
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    ],
+    "options": {
+      "colors": ["White", "Black", "Sky Blue"],
+      "materials": ["Polymer"],
+      "addOns": [{ "key": "Rubber Foot Pads", "price": 149 }]
+    }
+  },
+
+  {
+    "title": "Premium Leather Recliner Chair",
+    "slug": "premium-leather-recliner-chair",
+    "category": "chairs",
+    "description": "A luxurious reclining chair with soft-touch leather upholstery.",
+    "basePrice": 11999,
+    "images": [
+      "https://images.unsplash.com/photo-1616627987975-bb79d4460e46",
+      "https://images.unsplash.com/photo-1615873968403-89e38aeb8d5e"
+    ],
+    "options": {
+      "colors": ["Chestnut Brown", "Black"],
+      "materials": ["Premium Leather"],
+      "addOns": [
+        { "key": "Swivel Base", "price": 1299 },
+        { "key": "Recline Extension", "price": 999 }
+      ]
+    }
+  },
+
+  {
+    "title": "Fabric Lounge Chair",
+    "slug": "fabric-lounge-chair",
+    "category": "chairs",
+    "description": "Soft lounge chair designed with breathable fabric for long seating.",
+    "basePrice": 6899,
+    "images": [
+      "https://images.unsplash.com/photo-1603898037225-1c3f52db4dfd",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    ],
+    "options": {
+      "colors": ["Grey", "Maroon"],
+      "materials": ["Fabric"],
+      "addOns": [{ "key": "Neck Support Pillow", "price": 399 }]
+    }
+  },
+
+  {
+    "title": "Cushioned Dining Chair",
+    "slug": "cushioned-dining-chair",
+    "category": "chairs",
+    "description": "Elegant cushioned dining chair for modern dinner setups.",
+    "basePrice": 4499,
+    "images": [
+      "https://images.unsplash.com/photo-1567016376408-0226e4d0c1f5",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457"
+    ],
+    "options": {
+      "colors": ["Cream", "Dark Brown"],
+      "materials": ["Wood + Fabric"],
+      "addOns": [{ "key": "Anti-scratch Pads", "price": 99 }]
+    }
+  },
+
+  {
+    "title": "Handcrafted Cane Chair",
+    "slug": "handcrafted-cane-chair",
+    "category": "chairs",
+    "description": "Traditional handcrafted cane chair with sustainable materials.",
+    "basePrice": 5799,
+    "images": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+    ],
+    "options": {
+      "colors": ["Natural Cane"],
+      "materials": ["Cane + Wood"],
+      "addOns": [{ "key": "Weather Coating", "price": 299 }]
+    }
+  },
+
+  {
+    "title": "Executive High-Back Chair",
+    "slug": "executive-high-back-chair",
+    "category": "chairs",
+    "description": "Premium high-back office chair built for executives.",
+    "basePrice": 10499,
+    "images": [
+      "https://images.unsplash.com/photo-1616627987975-bb79d4460e46",
+      "https://images.unsplash.com/photo-1582719478436-590aa1fe8f42"
+    ],
+    "options": {
+      "colors": ["Black", "Dark Blue"],
+      "materials": ["Soft Mesh + Metal Frame"],
+      "addOns": [
+        { "key": "Lumbar Support", "price": 499 },
+        { "key": "Wheel Upgrade", "price": 349 }
+      ]
+    }
+  }
+]
