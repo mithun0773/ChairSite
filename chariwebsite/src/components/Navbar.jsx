@@ -10,8 +10,7 @@ export default function Navbar() {
   const [showDropdown, setShowDropdown] = useState(false);
 
   // first letter of user name
-  const profileLetter = user ? user.name.charAt(0).toUpperCase() : "";
-
+const profileLetter = user?.name ? user.name.charAt(0).toUpperCase() : "";
   return (
     <nav className="navbar">
       <Link to="/" className="logo">
@@ -22,7 +21,7 @@ export default function Navbar() {
         <li>
           <Link to="/">Home</Link>
         </li>
-       <li>
+        <li>
           <Link to="/shop">Shop</Link>
         </li>
         <li>
